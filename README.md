@@ -1,2 +1,0 @@
-# useStateExample
-Created with CodeSandbox
